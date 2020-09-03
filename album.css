@@ -2,7 +2,7 @@
   padding-top: 3rem;
   padding-bottom: 3rem;
   margin-bottom: 0;
-  background-image: url(https://files.slack.com/files-pri/T017GKUFWLX-F019YD5JUER/gogreen.jpg);
+  background-image:("gogreen.jpg")
 }
 @media (min-width: 768px) {
   .jumbotron {
